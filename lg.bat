@@ -1,0 +1,1 @@
+docker logs -f --tail 100 rocketchat-rocketchat-1
