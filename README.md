@@ -31,6 +31,13 @@ ex. ALLOW-FROM http://localhost:8080
 	
 ![File Upload](rocket_setting_3.png)
 
+4. Generate Access Token
+	- from account icon tick Profile or Preferences menu
+	- select Personal Access Tokens
+	- try to Add and let access with token and user id
+	
+![File Upload](rocket_access_token.png)
+
 ## Restriction
 If you want to integrate with web application try to password as same as username when register
 
